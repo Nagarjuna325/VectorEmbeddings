@@ -1,0 +1,12 @@
+
+I am thrilled to apply for the Java Developer role within the Bureau of Information Technology at the Wisconsin Department of Transportation (WisDOT). With over three years of experience in Java development, I bring proven skills in application modernization, cross-functional collaboration, and enterprise-level systems integration that align strongly with WisDOT’s requirements.
+
+Relevant Skills and Experience
+Java & Spring Boot Development
+I have substantial experience in Java and Spring Boot for backend solutions, as demonstrated by my work at Deloitte Consulting and HEPHIUM. At Deloitte, I implemented secure APIs using Spring, Hibernate, and Spring Security protocols like SAML2 and OAuth2.0, which directly aligns with WisDOT’s focus on robust application solutions. At HEPHIUM, I developed a high-performing API architecture that reduced data retrieval times significantly, showcasing my commitment to optimized, scalable applications.
+
+Application Modernization
+In my previous roles, I have successfully led modernization efforts. For example, at Deloitte, I improved data transaction efficiency by integrating MySQL with Redis for session management, which reduced processing times and increased scalability. This experience will be valuable as WisDOT continues its modernization initiatives.
+
+Collaborative Development
+I am experienced in working across departments to deliver impactful results. At BUILD SYNC, I collaborated with diverse teams to integrate large language models (LLMs) for AI-driven scene generation, demonstrating my adaptability and technical versatility in complex environments.
